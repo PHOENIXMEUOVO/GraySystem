@@ -1,0 +1,2 @@
+# GraySystem
+Sistema Graycode
